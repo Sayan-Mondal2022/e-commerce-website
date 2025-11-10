@@ -34,3 +34,13 @@ I got the above error
     How to setup for the MongoDB Atlas, I have the below given file as my dg.js
 can you tell me what exactly I am supposed to do this
 )
+
+7. (
+I want you to give me the complete documentation for this Project, 
+Including 
+1. Project Introduction
+2.Project Overview
+3. Project Tech Stack
+4. Setup
+5. Acknowledgement
+)

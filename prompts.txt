@@ -1,0 +1,27 @@
+1. (
+You are a Professional Full-stack developer, so now I want to create a full stack E-commerce website using Next.js as my Frontend, Node.js with Express.js as my Backend and MongoDb Atlas as my Db.
+
+My E-commerce website should enable the users to explore products, view products, and manage a shopping cart.
+This site should have a clean UI and Good UX.
+This website should also have Authentication and all the basic features that a E-commerce website needs to have.
+
+So, now I want you to build this project for me
+)
+
+2. (
+    Give me the commands in a step by step manner following which I can complete this 
+)
+
+3. (
+    npm error Missing script: "dev"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: C:\Users\sayan\AppData\Local\npm-cache\_logs\2025-11-10T08_17_52_122Z-debug-0.log
+
+I got the above error
+)
+
+4. (
+    I want you to give me all the pages for this app now
+)

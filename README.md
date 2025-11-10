@@ -155,4 +155,13 @@ Your frontend app will be accessible at:
 
 ---
 
+## 🙏 Acknowledgement
+
+This project serves as a foundational template for a **full-stack e-commerce application**.  
+It integrates best practices for both **frontend** and **backend** development — including **API routing**, **database modeling**, **user authentication**, and a **component-based UI** built with **React** and **Next.js**.  
+The goal is to provide a scalable, maintainable, and modern structure for developers building robust e-commerce platforms.
+
+
+---
+
 💡 This project delivers a complete end-to-end e-commerce solution — from secure authentication to product management and a dynamic shopping experience.

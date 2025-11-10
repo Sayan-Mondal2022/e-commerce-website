@@ -25,3 +25,12 @@ I got the above error
 4. (
     I want you to give me all the pages for this app now
 )
+
+5. (
+    My project is all about a E-Commerce website, so I want you to give me good content about my website
+)
+
+6. (
+    How to setup for the MongoDB Atlas, I have the below given file as my dg.js
+can you tell me what exactly I am supposed to do this
+)
